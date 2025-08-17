@@ -7,3 +7,6 @@ plugins:
 
 markdown: kramdown
 
+# Configuración de URL base (útil si está en GitHub Pages)
+baseurl: "" 
+url: "https://tuusuario.github.io"
