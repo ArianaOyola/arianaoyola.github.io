@@ -1,1 +1,8 @@
+:root {
+  --primary: #6C63FF;     /* violeta principal */
+  --secondary: #4CAF50;   /* verde */
+  --background: #F1F1F1;  /* fondo claro */
+  --text: #333333;        /* texto principal */
+  --accent: #FFC107;      /* acento */
+}
 
