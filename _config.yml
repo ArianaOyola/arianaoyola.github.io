@@ -1,1 +1,9 @@
+title: "Ariana Oyola"
+description: "Portafolio personal de Ariana Oyola"
+theme: minima
+
+plugins:
+  - jekyll-data
+
+markdown: kramdown
 
