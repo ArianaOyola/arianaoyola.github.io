@@ -1,1 +1,9 @@
-
+main:
+  - title: "Inicio"
+    url: /
+  - title: "Sobre mí"
+    url: /about/
+  - title: "Portafolio"
+    url: /portfolio/
+  - title: "Contacto"
+    url: /contact/
